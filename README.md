@@ -32,3 +32,22 @@ cd tic-tac-toe-React
 
 # Install dependencies
 npm install
+
+
+## How to Play
+
+- Player 1 is X and Player 2 is O.
+- Click on an empty square to make a move.
+- The game will indicate when a player has won or when the game is a draw.
+
+## Contributing
+
+Contributions are welcome! If you have suggestions or found a bug, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- This project was created as part of learning React.

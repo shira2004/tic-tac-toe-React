@@ -23,16 +23,23 @@ This project is a simple implementation of the Tic Tac Toe game using React. It 
 
 ### Installation
 
-```bash
-# Clone the repository
+Clone the repository:
+
+```
 git clone https://github.com/shira2004/tic-tac-toe-React.git
+```
 
-# Navigate into the project directory
+Navigate into the project directory:
+
+```
 cd tic-tac-toe-React
+```
 
-# Install dependencies
+Install dependencies:
+
+```
 npm install
-
+```
 
 ## How to Play
 
@@ -40,13 +47,6 @@ npm install
 - Click on an empty square to make a move.
 - The game will indicate when a player has won or when the game is a draw.
 
-## Contributing
-
-Contributions are welcome! If you have suggestions or found a bug, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 

@@ -2,10 +2,8 @@
 
 This project is a simple implementation of the Tic Tac Toe game using React. It allows two players to play against each other on a 3x3 grid.
 
-![Tic Tac Toe Screenshot]()
-
-
-![image](https://github.com/shira2004/tic-tac-toe-React/assets/145601791/9eeb52b5-4f58-484b-b438-aa5b5d219639)
+![Tic Tac Toe Screenshot](https://github.com/shira2004/tic-tac-toe-React/assets/145601791/3eaf48b2-9b4f-4f6f-8e2a-3e9f39945320)
+![Tic Tac Toe Screenshot](https://github.com/shira2004/tic-tac-toe-React/assets/145601791/ceab6db4-d629-4c9f-994f-f88915c7f82a)
 ## Features
 
 - Two players can play against each other.
